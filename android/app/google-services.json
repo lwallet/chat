@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879570997984",
+    "project_id": "dogwood-day-225219",
+    "storage_bucket": "dogwood-day-225219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879570997984:android:c340105b397cb5dda83685",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879570997984-ov62ukj9mjoa36k92ug9aivi82sjkg5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1g9xJkqgXaflSpIXW550gPWI8ugsPSSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879570997984-ov62ukj9mjoa36k92ug9aivi82sjkg5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -46,7 +46,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   email = value;
                 },
                 decoration: kTextFieldDecoration.copyWith(
-                  hintText: 'Enter your Email',
+                  hintText: 'Enter your Student code',
                   fillColor: Colors.black45,
                 ),
               ),

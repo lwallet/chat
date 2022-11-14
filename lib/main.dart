@@ -6,6 +6,9 @@ import 'package:chat/screens/chat_screen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'dart:io' show Platform;
+import 'package:flutter/foundation.dart' show defaultTargetPlatform;
+import 'package:flutter_inappwebview/flutter_inappwebview.dart';
 
 Future<void> main() async {
 WidgetsFlutterBinding.ensureInitialized();

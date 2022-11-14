@@ -21,7 +21,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
     return Scaffold(
       appBar: AppBar(
-          title: Text('Questionnary'),
+          title: const Text('Questionnary'),
   ),
   body: SafeArea(
     child: Container(
